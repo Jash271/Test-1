@@ -1,0 +1,6 @@
+fastapi
+torch==1.4
+torchvision==0.5.0
+flask
+Flask-Cors==3.0.10
+gunicorn
